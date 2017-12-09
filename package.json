@@ -1,0 +1,26 @@
+{
+  "name": "auto-signin",
+  "version": "1.0.0",
+  "description": "a script of auto sign in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossroma/Auto-Signin.git"
+  },
+  "keywords": [
+    "superagent"
+  ],
+  "author": "rossroma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rossroma/Auto-Signin/issues"
+  },
+  "homepage": "https://github.com/rossroma/Auto-Signin#readme",
+  "dependencies": {
+    "later": "^1.2.0",
+    "superagent": "^3.8.2"
+  }
+}
